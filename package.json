@@ -1,0 +1,26 @@
+{
+  "name": "4protect-v2",
+  "version": "2.0.0",
+  "description": "Le bot gestion de 4wip (version allégée)",
+  "main": "index.js",
+  "author": "4wip",
+  "scripts": {
+    "start": "node index.js",
+    "start:ts": "ts-node index.ts"
+  },
+  "dependencies": {
+    "@discordjs/rest": "^2.5.1",
+    "date-fns": "^4.1.0",
+    "discord-api-types": "^0.37.120",
+    "discord-giveaways": "^6.0.1",
+    "discord.js": "^14.15.0",
+    "discord-backup": "^3.3.0",
+    "discord-html-transcripts": "^3.2.0",
+    "axios": "^1.6.8",
+    "fs": "^0.0.1-security",
+    "ms": "^2.1.3",
+    "sqlite3": "^5.1.7",
+    "ts-node": "^10.9.2",
+    "typescript": "~5.7.0"
+  }
+}

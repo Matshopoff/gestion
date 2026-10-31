@@ -1,0 +1,1319 @@
+{
+  "id": "BKP-PEKU",
+  "createdAt": 1789362611716,
+  "roles": [
+    {
+      "name": "Virginie Bonrain",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "8"
+    },
+    {
+      "name": "BAN",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0"
+    },
+    {
+      "name": "[/] Char-Shop Statut",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "8"
+    },
+    {
+      "name": "▬▬▬▬▬▬▬▬",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0"
+    },
+    {
+      "name": "Ping Partenariat",
+      "color": 15844367,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0"
+    },
+    {
+      "name": "Ping Giveaway",
+      "color": 3066993,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0"
+    },
+    {
+      "name": "Ping Annonces",
+      "color": 16711680,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0"
+    },
+    {
+      "name": "Membres",
+      "color": 3066993,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": "0"
+    },
+    {
+      "name": "Soutien",
+      "color": 10181046,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": "0"
+    },
+    {
+      "name": "Bots",
+      "color": 3447003,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": "0"
+    },
+    {
+      "name": "Clients",
+      "color": 9257984,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": "0"
+    },
+    {
+      "name": "Amis",
+      "color": 16449791,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": "0"
+    },
+    {
+      "name": "▬▬▬▬▬▬▬▬",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0"
+    },
+    {
+      "name": "Équipe Char-Shop",
+      "color": 9274112,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0"
+    },
+    {
+      "name": "Support",
+      "color": 15158332,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": "268436480"
+    },
+    {
+      "name": "Modérateur",
+      "color": 15277667,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": "71468725646549"
+    },
+    {
+      "name": "Manager",
+      "color": 65312,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": "973081211420631"
+    },
+    {
+      "name": "Administrateur",
+      "color": 15105570,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": "8"
+    },
+    {
+      "name": "▬▬▬▬▬▬▬▬",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0"
+    },
+    {
+      "name": "Vice-Président",
+      "color": 45823,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": "8"
+    },
+    {
+      "name": "Président",
+      "color": 16712194,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": "8"
+    },
+    {
+      "name": "Nos Bots",
+      "color": 53182,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": "8"
+    }
+  ],
+  "channels": [
+    {
+      "name": "🔊・Radio",
+      "type": 2,
+      "parent": "Communautaire",
+      "permissionOverwrites": []
+    },
+    {
+      "name": "🔰・Staff",
+      "type": 2,
+      "parent": "Staff",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "1048576",
+          "deny": "3072"
+        }
+      ]
+    },
+    {
+      "name": "┊💬・discussion",
+      "type": 0,
+      "parent": "Communautaire",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "32768"
+        }
+      ]
+    },
+    {
+      "name": "┊❓・faire-une-suggestion",
+      "type": 0,
+      "parent": "Suggestions",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "name": "┊🔮・boosters",
+      "type": 0,
+      "parent": "┊📁・INFORMATIONS",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "name": "┊🔥・nouveautés",
+      "type": 0,
+      "parent": "┊🤖・Actualités",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "name": "┊contact@char-shop.kdns.fr",
+      "type": 2,
+      "parent": null,
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "1024",
+          "deny": "1048576"
+        }
+      ]
+    },
+    {
+      "name": "┊🚀・vps",
+      "type": 0,
+      "parent": "┊🌐・Hébergement",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "name": "┊🎫・tickets",
+      "type": 0,
+      "parent": "┊🛠️・SUPPORT",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "name": "📁・logs-joinleave",
+      "type": 0,
+      "parent": "📚・Logs",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "67584",
+          "deny": "1024"
+        }
+      ]
+    },
+    {
+      "name": "┊🛎️・annonces-staff",
+      "type": 0,
+      "parent": "Staff",
+      "permissionOverwrites": [
+        {
+          "id": "1466946871095328942",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1466946875079790715",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "1051648"
+        },
+        {
+          "id": "1466946873138086200",
+          "allow": "1049600",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "┊🛎️・signaler-un-bug",
+      "type": 0,
+      "parent": "┊🐊・Bug & MAJ",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "name": "┊🛎️・annonces-clients",
+      "type": 0,
+      "parent": "Clients",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "1051648"
+        },
+        {
+          "id": "1466946861913870551",
+          "allow": "1049600",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "┊🚀・gestion",
+      "type": 0,
+      "parent": "┊🤖・Char'Bot",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "name": "┊📚・règles",
+      "type": 0,
+      "parent": "┊📌・ACCUEIL",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "name": "🆘・Bug & Aide",
+      "type": 2,
+      "parent": "Clients",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "1051648"
+        },
+        {
+          "id": "1466946861913870551",
+          "allow": "1049600",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "┊📌・ACCUEIL",
+      "type": 4,
+      "parent": null,
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "name": "📁・backup-logs",
+      "type": 0,
+      "parent": "Logs",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "1325614558987026494",
+          "allow": "1024",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "┊🔗・liens",
+      "type": 0,
+      "parent": "┊📁・INFORMATIONS",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "name": "📁・boost-logs",
+      "type": 0,
+      "parent": "Logs",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "1325614558987026494",
+          "allow": "1024",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "┊🎒・bot",
+      "type": 0,
+      "parent": "┊🤖・Char'Bot",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "name": "┊RNA : W022007063",
+      "type": 2,
+      "parent": null,
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "1024",
+          "deny": "1048576"
+        }
+      ]
+    },
+    {
+      "name": "┊📱・médias",
+      "type": 0,
+      "parent": "Communautaire",
+      "permissionOverwrites": []
+    },
+    {
+      "name": "┊🗃️・logs-bug",
+      "type": 0,
+      "parent": "┊🐊・Bug & MAJ",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "3072"
+        }
+      ]
+    },
+    {
+      "name": "┊📁・INFORMATIONS",
+      "type": 4,
+      "parent": null,
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "name": "┊⏰・attende-de-validation",
+      "type": 0,
+      "parent": "Suggestions",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "name": "┊🔔・actualités",
+      "type": 0,
+      "parent": "┊📌・ACCUEIL",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "name": "┊💬・tchat-client",
+      "type": 0,
+      "parent": "Clients",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "2048",
+          "deny": "1049600"
+        }
+      ]
+    },
+    {
+      "name": "┊🔖・présentations",
+      "type": 0,
+      "parent": "┊🤖・Actualités",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "3072"
+        }
+      ]
+    },
+    {
+      "name": "dev-bot",
+      "type": 0,
+      "parent": "┊🛠️・SUPPORT",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "1325614558987026494",
+          "allow": "35840",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "📁・logs-salons",
+      "type": 0,
+      "parent": "📚・Logs",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "67584",
+          "deny": "1024"
+        }
+      ]
+    },
+    {
+      "name": "🔊・Vocal 1",
+      "type": 2,
+      "parent": "Communautaire",
+      "permissionOverwrites": []
+    },
+    {
+      "name": "┊📋・règlement-staff",
+      "type": 0,
+      "parent": "Staff",
+      "permissionOverwrites": [
+        {
+          "id": "1466946871095328942",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1466946875079790715",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "1051648"
+        },
+        {
+          "id": "1466946873138086200",
+          "allow": "1049600",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "┊✅・suggestions-validées",
+      "type": 0,
+      "parent": "Suggestions",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "name": "┊🪄・absence",
+      "type": 0,
+      "parent": "Staff",
+      "permissionOverwrites": [
+        {
+          "id": "1466946875079790715",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1466946871095328942",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "1051648"
+        },
+        {
+          "id": "1466946873138086200",
+          "allow": "1049600",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "┊🤖・Actualités",
+      "type": 4,
+      "parent": null,
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "name": "┊🟢・statut",
+      "type": 0,
+      "parent": "┊📌・ACCUEIL",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "1024",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "name": "📁・logs-embeds",
+      "type": 0,
+      "parent": "📚・Logs",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "67584",
+          "deny": "1024"
+        }
+      ]
+    },
+    {
+      "name": "┊🎒・bot",
+      "type": 0,
+      "parent": "┊🤖・Char'Bot",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "name": "┊🤝・partenariat",
+      "type": 0,
+      "parent": "┊🤖・Actualités",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "name": "dev-site",
+      "type": 0,
+      "parent": "┊🛠️・SUPPORT",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "1325614558987026494",
+          "allow": "35840",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "📁・message-logs",
+      "type": 0,
+      "parent": "Logs",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "1325614558987026494",
+          "allow": "1024",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "┊SIREN : 993 497 452",
+      "type": 2,
+      "parent": null,
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "1024",
+          "deny": "1048576"
+        }
+      ]
+    },
+    {
+      "name": "┊🤖・commandes",
+      "type": 0,
+      "parent": "Communautaire",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "2048",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "┊💲・paiement",
+      "type": 0,
+      "parent": "┊📁・INFORMATIONS",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "name": "┊👋・bienvenue",
+      "type": 0,
+      "parent": "┊📌・ACCUEIL",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "1024",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "name": "┊🎯・objectifs",
+      "type": 0,
+      "parent": "┊🤖・Actualités",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "name": "botgestion",
+      "type": 0,
+      "parent": "📚・Logs",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "67584",
+          "deny": "1024"
+        }
+      ]
+    },
+    {
+      "name": "┊🎭・rank-derank",
+      "type": 0,
+      "parent": "Staff",
+      "permissionOverwrites": [
+        {
+          "id": "1466946875079790715",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1466946871095328942",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "1051648"
+        },
+        {
+          "id": "1466946873138086200",
+          "allow": "1049600",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "┊🎭・auto-rôles",
+      "type": 0,
+      "parent": "┊📁・INFORMATIONS",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "name": "┊🐊・Bug & MAJ",
+      "type": 4,
+      "parent": null,
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "name": "conctact-site",
+      "type": 0,
+      "parent": "┊🛠️・SUPPORT",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "1325614558987026494",
+          "allow": "35840",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "📁・mod-logs",
+      "type": 0,
+      "parent": "Logs",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "1325614558987026494",
+          "allow": "1024",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "┊✨・avis",
+      "type": 0,
+      "parent": "Communautaire",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "name": "┊❌・suggestions-refusées",
+      "type": 0,
+      "parent": "Suggestions",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "name": "┊🔗・lien-invite-bot",
+      "type": 0,
+      "parent": "Staff",
+      "permissionOverwrites": [
+        {
+          "id": "1466946871095328942",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1466946875079790715",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "1051648"
+        },
+        {
+          "id": "1466946873138086200",
+          "allow": "1049600",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "┊📊・sondage",
+      "type": 0,
+      "parent": "┊📌・ACCUEIL",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "name": "┊🛠️・SUPPORT",
+      "type": 4,
+      "parent": null,
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "name": "📁・raid-logs",
+      "type": 0,
+      "parent": "Logs",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "1325614558987026494",
+          "allow": "1024",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "┊📍・tâches-staff",
+      "type": 0,
+      "parent": "Staff",
+      "permissionOverwrites": [
+        {
+          "id": "1466946871095328942",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1466946875079790715",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "1051648"
+        },
+        {
+          "id": "1466946873138086200",
+          "allow": "1049600",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "┊🎉・giveaway",
+      "type": 0,
+      "parent": "┊📌・ACCUEIL",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "name": "📁・role-logs",
+      "type": 0,
+      "parent": "Logs",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "1325614558987026494",
+          "allow": "1024",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "Suggestions",
+      "type": 4,
+      "parent": null,
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "name": "┊💬・discussion-staff",
+      "type": 0,
+      "parent": "Staff",
+      "permissionOverwrites": [
+        {
+          "id": "1466946871095328942",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1466946875079790715",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1363694477822267435",
+          "allow": "2048",
+          "deny": "1049600"
+        },
+        {
+          "id": "1466946873138086200",
+          "allow": "1024",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "📁・ticket-logs",
+      "type": 0,
+      "parent": "Logs",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "1325614558987026494",
+          "allow": "1024",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "Communautaire",
+      "type": 4,
+      "parent": null,
+      "permissionOverwrites": []
+    },
+    {
+      "name": "┊🤖・Char'Bot",
+      "type": 4,
+      "parent": null,
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "name": "📁・voice-logs",
+      "type": 0,
+      "parent": "Logs",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "1325614558987026494",
+          "allow": "1024",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "┊📱・médias-staff",
+      "type": 0,
+      "parent": "Staff",
+      "permissionOverwrites": [
+        {
+          "id": "1466946875079790715",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1466946871095328942",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1363694477822267435",
+          "allow": "2048",
+          "deny": "1049600"
+        },
+        {
+          "id": "1466946873138086200",
+          "allow": "1024",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "┊🤖・commande-staff",
+      "type": 0,
+      "parent": "Staff",
+      "permissionOverwrites": [
+        {
+          "id": "1466946875079790715",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1466946871095328942",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1363694477822267435",
+          "allow": "2048",
+          "deny": "1049600"
+        },
+        {
+          "id": "1466946873138086200",
+          "allow": "1024",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "📁・statut-logs",
+      "type": 0,
+      "parent": "Logs",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "1325614558987026494",
+          "allow": "1024",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "Clients",
+      "type": 4,
+      "parent": null,
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "1051648"
+        }
+      ]
+    },
+    {
+      "name": "📁・cloud-logs",
+      "type": 0,
+      "parent": "Logs",
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "1325614558987026494",
+          "allow": "1024",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "Staff",
+      "type": 4,
+      "parent": null,
+      "permissionOverwrites": [
+        {
+          "id": "1466946871095328942",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1466946875079790715",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "1051648"
+        },
+        {
+          "id": "1466946873138086200",
+          "allow": "1049600",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "absence-reçu",
+      "type": 0,
+      "parent": "Staff",
+      "permissionOverwrites": [
+        {
+          "id": "1466946871095328942",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1466946875079790715",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "1051648"
+        },
+        {
+          "id": "1466946873138086200",
+          "allow": "1049600",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "┊🌐・Hébergement",
+      "type": 4,
+      "parent": null,
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "name": "📚・Logs",
+      "type": 4,
+      "parent": null,
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "67584",
+          "deny": "1024"
+        }
+      ]
+    },
+    {
+      "name": "Logs",
+      "type": 4,
+      "parent": null,
+      "permissionOverwrites": [
+        {
+          "id": "1363694477822267435",
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "1325614558987026494",
+          "allow": "1024",
+          "deny": "0"
+        }
+      ]
+    }
+  ]
+}

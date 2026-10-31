@@ -1,0 +1,2247 @@
+{
+  "id": "BKP-6K0C",
+  "createdAt": 1791865655347,
+  "roles": [
+    {
+      "name": "API",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0"
+    },
+    {
+      "name": "Activity FA RP",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "8"
+    },
+    {
+      "name": "Hurix Bot",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "8791553241775607"
+    },
+    {
+      "name": "BOT",
+      "color": 6323595,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": "8"
+    },
+    {
+      "name": "Membre",
+      "color": 9735786,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": "0"
+    },
+    {
+      "name": "Server Booster",
+      "color": 16023551,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "2248473465835073"
+    },
+    {
+      "name": "Streamer",
+      "color": 7419530,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": "0"
+    },
+    {
+      "name": "Partenaire",
+      "color": 15158332,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": "0"
+    },
+    {
+      "name": "Amis",
+      "color": 10038562,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": "0"
+    },
+    {
+      "name": "Attente entretien",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0"
+    },
+    {
+      "name": "Equipe Staff",
+      "color": 15277667,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0"
+    },
+    {
+      "name": "Helper Test",
+      "color": 3066993,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": "0"
+    },
+    {
+      "name": "Helper",
+      "color": 2067276,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": "0"
+    },
+    {
+      "name": "Support Discord",
+      "color": 1146986,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": "0"
+    },
+    {
+      "name": "--",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0"
+    },
+    {
+      "name": "Modérateur Test",
+      "color": 13023460,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": "0"
+    },
+    {
+      "name": "Modérateur",
+      "color": 13668337,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": "0"
+    },
+    {
+      "name": "Modérateur +",
+      "color": 10181046,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": "0"
+    },
+    {
+      "name": "Pôle Illégal",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0"
+    },
+    {
+      "name": "Pôle Service Publique",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0"
+    },
+    {
+      "name": "Pôle Légal",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0"
+    },
+    {
+      "name": "Pôle Staff",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "0"
+    },
+    {
+      "name": "Responsable",
+      "color": 7419530,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": "0"
+    },
+    {
+      "name": "Admin",
+      "color": 3654126,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": "0"
+    },
+    {
+      "name": "Super Admin",
+      "color": 3447003,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": "0"
+    },
+    {
+      "name": "Developper",
+      "color": 2123412,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": "8"
+    },
+    {
+      "name": "Nos Bots",
+      "color": 11342935,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": "1711911955058625"
+    },
+    {
+      "name": "*",
+      "color": 0,
+      "hoist": false,
+      "mentionable": false,
+      "permissions": "8"
+    },
+    {
+      "name": "Co-Fondateur",
+      "color": 15277667,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": "8"
+    },
+    {
+      "name": "Fondateur",
+      "color": 11342935,
+      "hoist": true,
+      "mentionable": false,
+      "permissions": "8864258447638527"
+    }
+  ],
+  "channels": [
+    {
+      "name": "🔊・BDA / Convocation",
+      "type": 2,
+      "parent": "🆘・SUPPORT",
+      "permissionOverwrites": []
+    },
+    {
+      "name": "📅・annonces-événements",
+      "type": 0,
+      "parent": "🎉・ÉVÉNEMENT",
+      "permissionOverwrites": [
+        {
+          "id": "1558972416581959720",
+          "allow": "1024",
+          "deny": "2048"
+        },
+        {
+          "id": "1559047608285143200",
+          "allow": "3072",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "💬・général",
+      "type": 0,
+      "parent": "🌍・GLOBAL",
+      "permissionOverwrites": []
+    },
+    {
+      "name": "🎫・ouvrir-un-ticket",
+      "type": 0,
+      "parent": "🆘・SUPPORT",
+      "permissionOverwrites": []
+    },
+    {
+      "name": "📨・recrutement-staff",
+      "type": 0,
+      "parent": "📢・PÔLE RECRUTEMENT",
+      "permissionOverwrites": [
+        {
+          "id": "1558972416581959720",
+          "allow": "1024",
+          "deny": "2048"
+        },
+        {
+          "id": "1559301437538701379",
+          "allow": "3072",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "❗・INFORMATIONS",
+      "type": 4,
+      "parent": null,
+      "permissionOverwrites": []
+    },
+    {
+      "name": "moderator-only",
+      "type": 0,
+      "parent": null,
+      "permissionOverwrites": [
+        {
+          "id": "1558972416581959720",
+          "allow": "0",
+          "deny": "1024"
+        }
+      ]
+    },
+    {
+      "name": "📢・annonces-streamers",
+      "type": 0,
+      "parent": "🎥・STREAMER",
+      "permissionOverwrites": [
+        {
+          "id": "1558977367328825354",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558978394639699998",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558986894162010192",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558972416581959720",
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "1558977474384232478",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558976564899745972",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558973967379861565",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558975797211959397",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558976659934154772",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558976768180887595",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558977235669622914",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558978443985559552",
+          "allow": "1024",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "📢・annonces-staff",
+      "type": 0,
+      "parent": "👑・Staff",
+      "permissionOverwrites": [
+        {
+          "id": "1558977235669622914",
+          "allow": "1024",
+          "deny": "2048"
+        },
+        {
+          "id": "1558978394639699998",
+          "allow": "1024",
+          "deny": "2048"
+        },
+        {
+          "id": "1558972416581959720",
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "1558976659934154772",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558977474384232478",
+          "allow": "1024",
+          "deny": "2048"
+        },
+        {
+          "id": "1559047608285143200",
+          "allow": "1024",
+          "deny": "2048"
+        },
+        {
+          "id": "1558973967379861565",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558975797211959397",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558976564899745972",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558976768180887595",
+          "allow": "1024",
+          "deny": "2048"
+        },
+        {
+          "id": "1558977367328825354",
+          "allow": "1024",
+          "deny": "2048"
+        },
+        {
+          "id": "1558978443985559552",
+          "allow": "1024",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "name": "🔊・Vocal général",
+      "type": 2,
+      "parent": "🌍・GLOBAL",
+      "permissionOverwrites": []
+    },
+    {
+      "name": "💎・boutique",
+      "type": 0,
+      "parent": "🛒・BOUTIQUE",
+      "permissionOverwrites": [
+        {
+          "id": "1558972416581959720",
+          "allow": "1024",
+          "deny": "2048"
+        },
+        {
+          "id": "1558979751199121499",
+          "allow": "3072",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "🎉・évènement",
+      "type": 0,
+      "parent": "🌐・RÔLE PLAY",
+      "permissionOverwrites": [
+        {
+          "id": "1558972416581959720",
+          "allow": "1024",
+          "deny": "2048"
+        },
+        {
+          "id": "1559047608285143200",
+          "allow": "3072",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "🎬・clips-streamers",
+      "type": 2,
+      "parent": "🎥・STREAMER",
+      "permissionOverwrites": [
+        {
+          "id": "1558972416581959720",
+          "allow": "0",
+          "deny": "1049600"
+        },
+        {
+          "id": "1558977235669622914",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558976659934154772",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558976564899745972",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558975797211959397",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558973967379861565",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558976768180887595",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558977367328825354",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558977474384232478",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558978394639699998",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558978443985559552",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558986894162010192",
+          "allow": "1049600",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "🛩️・aéroport",
+      "type": 0,
+      "parent": "❗・INFORMATIONS",
+      "permissionOverwrites": []
+    },
+    {
+      "name": "👑・bureau-fondateur",
+      "type": 2,
+      "parent": "🔊・STAFF VOCAL",
+      "permissionOverwrites": [
+        {
+          "id": "1558972416581959720",
+          "allow": "0",
+          "deny": "1049600"
+        },
+        {
+          "id": "1558973967379861565",
+          "allow": "1049600",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "trailer-loading-screen",
+      "type": 0,
+      "parent": "Ticket Fonda",
+      "permissionOverwrites": [
+        {
+          "id": "1559136261523116032",
+          "allow": "76816",
+          "deny": "0"
+        },
+        {
+          "id": "897937900707139585",
+          "allow": "117760",
+          "deny": "0"
+        },
+        {
+          "id": "1558972416581959720",
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "1558973967379861565",
+          "allow": "117760",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "📁・boost-logs",
+      "type": 0,
+      "parent": "Logs",
+      "permissionOverwrites": [
+        {
+          "id": "834510104727388170",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558972416581959720",
+          "allow": "0",
+          "deny": "1024"
+        }
+      ]
+    },
+    {
+      "name": "📢・annonces",
+      "type": 0,
+      "parent": "❗・INFORMATIONS",
+      "permissionOverwrites": [
+        {
+          "id": "1558972416581959720",
+          "allow": "1024",
+          "deny": "2048"
+        },
+        {
+          "id": "1558979751199121499",
+          "allow": "3072",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "🔴・convocation-staff",
+      "type": 0,
+      "parent": "👑・Staff",
+      "permissionOverwrites": [
+        {
+          "id": "1558977367328825354",
+          "allow": "1024",
+          "deny": "2048"
+        },
+        {
+          "id": "1558978394639699998",
+          "allow": "1024",
+          "deny": "2048"
+        },
+        {
+          "id": "1558972416581959720",
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "1558977235669622914",
+          "allow": "1024",
+          "deny": "2048"
+        },
+        {
+          "id": "1559047608285143200",
+          "allow": "1024",
+          "deny": "2048"
+        },
+        {
+          "id": "1558977474384232478",
+          "allow": "1024",
+          "deny": "2049"
+        },
+        {
+          "id": "1558973967379861565",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558975797211959397",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558976564899745972",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558976768180887595",
+          "allow": "1024",
+          "deny": "2048"
+        },
+        {
+          "id": "1558976659934154772",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558978443985559552",
+          "allow": "1024",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "name": "🎁・offres-et-promotions",
+      "type": 0,
+      "parent": "🛒・BOUTIQUE",
+      "permissionOverwrites": [
+        {
+          "id": "1558972416581959720",
+          "allow": "1024",
+          "deny": "2048"
+        },
+        {
+          "id": "1558979751199121499",
+          "allow": "3072",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "👮・recrutement-service-publique",
+      "type": 0,
+      "parent": "📢・PÔLE RECRUTEMENT",
+      "permissionOverwrites": []
+    },
+    {
+      "name": "🛒・BOUTIQUE",
+      "type": 4,
+      "parent": null,
+      "permissionOverwrites": [
+        {
+          "id": "1558972416581959720",
+          "allow": "1024",
+          "deny": "2048"
+        },
+        {
+          "id": "1558979751199121499",
+          "allow": "3072",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "🎮・Vocal gaming",
+      "type": 2,
+      "parent": "🌍・GLOBAL",
+      "permissionOverwrites": []
+    },
+    {
+      "name": "📸・concours",
+      "type": 0,
+      "parent": "🎉・ÉVÉNEMENT",
+      "permissionOverwrites": [
+        {
+          "id": "1558972416581959720",
+          "allow": "1024",
+          "deny": "2048"
+        },
+        {
+          "id": "1559047608285143200",
+          "allow": "3072",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "👑・bureau-gestion",
+      "type": 2,
+      "parent": "🔊・STAFF VOCAL",
+      "permissionOverwrites": [
+        {
+          "id": "1558972416581959720",
+          "allow": "0",
+          "deny": "1049600"
+        }
+      ]
+    },
+    {
+      "name": "🔊・Vocal streamers",
+      "type": 2,
+      "parent": "🎥・STREAMER",
+      "permissionOverwrites": [
+        {
+          "id": "1558972416581959720",
+          "allow": "0",
+          "deny": "1049600"
+        },
+        {
+          "id": "1558973967379861565",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558975797211959397",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558976564899745972",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558976659934154772",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558976768180887595",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558977367328825354",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558977235669622914",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558978443985559552",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558978394639699998",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558977474384232478",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558986894162010192",
+          "allow": "1049600",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "🔴・live-en-cours",
+      "type": 0,
+      "parent": "🎥・STREAMER",
+      "permissionOverwrites": [
+        {
+          "id": "1558977367328825354",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558978394639699998",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558986894162010192",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558972416581959720",
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "1558977474384232478",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558976564899745972",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558973967379861565",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558975797211959397",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558977235669622914",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558976768180887595",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558976659934154772",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558978443985559552",
+          "allow": "1024",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "👋・présentations",
+      "type": 0,
+      "parent": "🌍・GLOBAL",
+      "permissionOverwrites": []
+    },
+    {
+      "name": "🗽・gouvernement",
+      "type": 0,
+      "parent": "🌐・RÔLE PLAY",
+      "permissionOverwrites": [
+        {
+          "id": "1558972416581959720",
+          "allow": "1024",
+          "deny": "2048"
+        },
+        {
+          "id": "1559047608285143200",
+          "allow": "3072",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "📁・message-logs",
+      "type": 0,
+      "parent": "Logs",
+      "permissionOverwrites": [
+        {
+          "id": "834510104727388170",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558972416581959720",
+          "allow": "0",
+          "deny": "1024"
+        }
+      ]
+    },
+    {
+      "name": "🔴・convocation",
+      "type": 0,
+      "parent": "🆘・SUPPORT",
+      "permissionOverwrites": [
+        {
+          "id": "1558972416581959720",
+          "allow": "1024",
+          "deny": "2048"
+        },
+        {
+          "id": "1559280030159343718",
+          "allow": "3072",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "📜・règlement",
+      "type": 0,
+      "parent": "❗・INFORMATIONS",
+      "permissionOverwrites": [
+        {
+          "id": "1558972416581959720",
+          "allow": "1024",
+          "deny": "2048"
+        },
+        {
+          "id": "1558979751199121499",
+          "allow": "3072",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "🔱・Bureau Super-Admin",
+      "type": 2,
+      "parent": "🔊・STAFF VOCAL",
+      "permissionOverwrites": [
+        {
+          "id": "1558972416581959720",
+          "allow": "0",
+          "deny": "1049600"
+        },
+        {
+          "id": "1558975797211959397",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558976564899745972",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558973967379861565",
+          "allow": "1049600",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "📢・PÔLE RECRUTEMENT",
+      "type": 4,
+      "parent": null,
+      "permissionOverwrites": []
+    },
+    {
+      "name": "❓・aide-et-assistance",
+      "type": 0,
+      "parent": "🆘・SUPPORT",
+      "permissionOverwrites": []
+    },
+    {
+      "name": "🏢・recrutement-entreprises",
+      "type": 0,
+      "parent": "📢・PÔLE RECRUTEMENT",
+      "permissionOverwrites": []
+    },
+    {
+      "name": "💡・propositions-événements",
+      "type": 0,
+      "parent": "🎉・ÉVÉNEMENT",
+      "permissionOverwrites": [
+        {
+          "id": "1558972416581959720",
+          "allow": "1024",
+          "deny": "2048"
+        },
+        {
+          "id": "1559047608285143200",
+          "allow": "3072",
+          "deny": "0"
+        },
+        {
+          "id": "1558988142575493160",
+          "allow": "3072",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "📷・screenshots",
+      "type": 0,
+      "parent": "🌍・GLOBAL",
+      "permissionOverwrites": []
+    },
+    {
+      "name": "👑・discutions-fonda",
+      "type": 0,
+      "parent": "👑・Staff",
+      "permissionOverwrites": [
+        {
+          "id": "1558972416581959720",
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "1558973967379861565",
+          "allow": "1024",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "🎀・giveaway",
+      "type": 0,
+      "parent": "🛒・BOUTIQUE",
+      "permissionOverwrites": [
+        {
+          "id": "1558972416581959720",
+          "allow": "1024",
+          "deny": "2048"
+        },
+        {
+          "id": "1558979751199121499",
+          "allow": "3072",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "🏝️・cayo-perico",
+      "type": 0,
+      "parent": "🌐・RÔLE PLAY",
+      "permissionOverwrites": [
+        {
+          "id": "1558972416581959720",
+          "allow": "1024",
+          "deny": "2048"
+        },
+        {
+          "id": "1559047608285143200",
+          "allow": "3072",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "📁・mod-logs",
+      "type": 0,
+      "parent": "Logs",
+      "permissionOverwrites": [
+        {
+          "id": "834510104727388170",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558972416581959720",
+          "allow": "0",
+          "deny": "1024"
+        }
+      ]
+    },
+    {
+      "name": "🎬・clips-et-vidéos",
+      "type": 0,
+      "parent": "🌍・GLOBAL",
+      "permissionOverwrites": []
+    },
+    {
+      "name": "👨‍💼・Bureau Responsable",
+      "type": 2,
+      "parent": "🔊・STAFF VOCAL",
+      "permissionOverwrites": [
+        {
+          "id": "1558972416581959720",
+          "allow": "0",
+          "deny": "1049600"
+        },
+        {
+          "id": "1558973967379861565",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558975797211959397",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558976564899745972",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558976659934154772",
+          "allow": "1049600",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "🔫・recrutement-organisations",
+      "type": 0,
+      "parent": "📢・PÔLE RECRUTEMENT",
+      "permissionOverwrites": []
+    },
+    {
+      "name": "🚓・police",
+      "type": 0,
+      "parent": "🌐・RÔLE PLAY",
+      "permissionOverwrites": [
+        {
+          "id": "1558972416581959720",
+          "allow": "1024",
+          "deny": "2048"
+        },
+        {
+          "id": "1559047608285143200",
+          "allow": "3072",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "🎉・ÉVÉNEMENT",
+      "type": 4,
+      "parent": null,
+      "permissionOverwrites": [
+        {
+          "id": "1558972416581959720",
+          "allow": "1024",
+          "deny": "2048"
+        },
+        {
+          "id": "1559047608285143200",
+          "allow": "3072",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "👑・discutions-gestion",
+      "type": 0,
+      "parent": "👑・Staff",
+      "permissionOverwrites": [
+        {
+          "id": "1558973967379861565",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558972416581959720",
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "1558976564899745972",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558976659934154772",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558975797211959397",
+          "allow": "1024",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "🏆・résultats-et-gagnants",
+      "type": 0,
+      "parent": "🎉・ÉVÉNEMENT",
+      "permissionOverwrites": [
+        {
+          "id": "1558972416581959720",
+          "allow": "1024",
+          "deny": "2048"
+        },
+        {
+          "id": "1559047608285143200",
+          "allow": "3072",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "📋・informations-serveur",
+      "type": 0,
+      "parent": "❗・INFORMATIONS",
+      "permissionOverwrites": [
+        {
+          "id": "1559136897421418597",
+          "allow": "3072",
+          "deny": "0"
+        },
+        {
+          "id": "1558972416581959720",
+          "allow": "1024",
+          "deny": "2048"
+        },
+        {
+          "id": "1558979751199121499",
+          "allow": "3072",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "🐛・signalement-bug",
+      "type": 0,
+      "parent": "🆘・SUPPORT",
+      "permissionOverwrites": []
+    },
+    {
+      "name": "📁・raid-logs",
+      "type": 0,
+      "parent": "Logs",
+      "permissionOverwrites": [
+        {
+          "id": "834510104727388170",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558972416581959720",
+          "allow": "0",
+          "deny": "1024"
+        }
+      ]
+    },
+    {
+      "name": "🎬・live",
+      "type": 0,
+      "parent": "🌍・GLOBAL",
+      "permissionOverwrites": []
+    },
+    {
+      "name": "👑・discutions-admin",
+      "type": 0,
+      "parent": "👑・Staff",
+      "permissionOverwrites": [
+        {
+          "id": "1558972416581959720",
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "1558976564899745972",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558973967379861565",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558975797211959397",
+          "allow": "1024",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "🔧・patch-note",
+      "type": 0,
+      "parent": "❗・INFORMATIONS",
+      "permissionOverwrites": [
+        {
+          "id": "1558972416581959720",
+          "allow": "1024",
+          "deny": "2048"
+        },
+        {
+          "id": "1558979751199121499",
+          "allow": "3072",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "🌍・GLOBAL",
+      "type": 4,
+      "parent": null,
+      "permissionOverwrites": []
+    },
+    {
+      "name": "🏥・hôpital",
+      "type": 0,
+      "parent": "🌐・RÔLE PLAY",
+      "permissionOverwrites": [
+        {
+          "id": "1558972416581959720",
+          "allow": "1024",
+          "deny": "2048"
+        },
+        {
+          "id": "1559047608285143200",
+          "allow": "3072",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "👨‍💼・Bureau Responsable",
+      "type": 2,
+      "parent": "🔊・STAFF VOCAL",
+      "permissionOverwrites": [
+        {
+          "id": "1558972416581959720",
+          "allow": "0",
+          "deny": "1049600"
+        },
+        {
+          "id": "1558973967379861565",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558975797211959397",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558976564899745972",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558976659934154772",
+          "allow": "1049600",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "📁・role-logs",
+      "type": 0,
+      "parent": "Logs",
+      "permissionOverwrites": [
+        {
+          "id": "834510104727388170",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558972416581959720",
+          "allow": "0",
+          "deny": "1024"
+        }
+      ]
+    },
+    {
+      "name": "💭・suggestions",
+      "type": 15,
+      "parent": "🌍・GLOBAL",
+      "permissionOverwrites": []
+    },
+    {
+      "name": "⭐・Bureau Modo",
+      "type": 2,
+      "parent": "🔊・STAFF VOCAL",
+      "permissionOverwrites": [
+        {
+          "id": "1558972416581959720",
+          "allow": "0",
+          "deny": "1049600"
+        },
+        {
+          "id": "1558973967379861565",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558975797211959397",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558976564899745972",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558976659934154772",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558976768180887595",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558977235669622914",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558977367328825354",
+          "allow": "1049600",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "🔗・liens-utiles",
+      "type": 0,
+      "parent": "❗・INFORMATIONS",
+      "permissionOverwrites": [
+        {
+          "id": "1558972416581959720",
+          "allow": "1024",
+          "deny": "2048"
+        },
+        {
+          "id": "1558979751199121499",
+          "allow": "3072",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "👑・discutions-responsable",
+      "type": 0,
+      "parent": "👑・Staff",
+      "permissionOverwrites": [
+        {
+          "id": "1558973967379861565",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558972416581959720",
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "1558976564899745972",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558976659934154772",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558975797211959397",
+          "allow": "1024",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "🌐・RÔLE PLAY",
+      "type": 4,
+      "parent": null,
+      "permissionOverwrites": [
+        {
+          "id": "1558972416581959720",
+          "allow": "1024",
+          "deny": "2048"
+        },
+        {
+          "id": "1559047608285143200",
+          "allow": "3072",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "📰・weazel-news",
+      "type": 0,
+      "parent": "🌐・RÔLE PLAY",
+      "permissionOverwrites": [
+        {
+          "id": "1558972416581959720",
+          "allow": "1024",
+          "deny": "2048"
+        },
+        {
+          "id": "1559047608285143200",
+          "allow": "3072",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "📁・ticket-logs",
+      "type": 0,
+      "parent": "Logs",
+      "permissionOverwrites": [
+        {
+          "id": "834510104727388170",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558972416581959720",
+          "allow": "0",
+          "deny": "1024"
+        }
+      ]
+    },
+    {
+      "name": "🔧・Bureau Travail #1",
+      "type": 2,
+      "parent": "🔊・STAFF VOCAL",
+      "permissionOverwrites": [
+        {
+          "id": "1558972416581959720",
+          "allow": "0",
+          "deny": "1049600"
+        },
+        {
+          "id": "1558973967379861565",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558975797211959397",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558976564899745972",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558976659934154772",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558977235669622914",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558977367328825354",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558977474384232478",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558976768180887595",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558978394639699998",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558978443985559552",
+          "allow": "1049600",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "🗳️・sondages",
+      "type": 0,
+      "parent": "🌍・GLOBAL",
+      "permissionOverwrites": []
+    },
+    {
+      "name": "💎・boost",
+      "type": 0,
+      "parent": "❗・INFORMATIONS",
+      "permissionOverwrites": [
+        {
+          "id": "1558972416581959720",
+          "allow": "1024",
+          "deny": "2048"
+        }
+      ]
+    },
+    {
+      "name": "🎺・studio-musique",
+      "type": 0,
+      "parent": "🌐・RÔLE PLAY",
+      "permissionOverwrites": [
+        {
+          "id": "1558972416581959720",
+          "allow": "1024",
+          "deny": "2048"
+        },
+        {
+          "id": "1559047608285143200",
+          "allow": "3072",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "👑・discutions-modération",
+      "type": 0,
+      "parent": "👑・Staff",
+      "permissionOverwrites": [
+        {
+          "id": "1558977367328825354",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558972416581959720",
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "1558976564899745972",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558973967379861565",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558975797211959397",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558976768180887595",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558976659934154772",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558977235669622914",
+          "allow": "1024",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "🆘・SUPPORT",
+      "type": 4,
+      "parent": null,
+      "permissionOverwrites": []
+    },
+    {
+      "name": "📁・voice-logs",
+      "type": 0,
+      "parent": "Logs",
+      "permissionOverwrites": [
+        {
+          "id": "834510104727388170",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558972416581959720",
+          "allow": "0",
+          "deny": "1024"
+        }
+      ]
+    },
+    {
+      "name": "🔊・STAFF VOCAL",
+      "type": 4,
+      "parent": null,
+      "permissionOverwrites": [
+        {
+          "id": "1558972416581959720",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1559047608285143200",
+          "allow": "1024",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "🔧・Bureau Travail #2",
+      "type": 2,
+      "parent": "🔊・STAFF VOCAL",
+      "permissionOverwrites": [
+        {
+          "id": "1558972416581959720",
+          "allow": "0",
+          "deny": "1049600"
+        },
+        {
+          "id": "1558973967379861565",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558975797211959397",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558976564899745972",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558976659934154772",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558976768180887595",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558977235669622914",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558977367328825354",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558977474384232478",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558978394639699998",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558978443985559552",
+          "allow": "1049600",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "👑・discutions-support",
+      "type": 0,
+      "parent": "👑・Staff",
+      "permissionOverwrites": [
+        {
+          "id": "1558977367328825354",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558978394639699998",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558972416581959720",
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "1558976659934154772",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558976564899745972",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1559047608285143200",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558973967379861565",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558975797211959397",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558977474384232478",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558976768180887595",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558977235669622914",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558978443985559552",
+          "allow": "1024",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "📜・rc-entreprise",
+      "type": 0,
+      "parent": "🌐・RÔLE PLAY",
+      "permissionOverwrites": [
+        {
+          "id": "1558972416581959720",
+          "allow": "1024",
+          "deny": "2048"
+        },
+        {
+          "id": "1559047608285143200",
+          "allow": "3072",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "🎳・spam-jeu",
+      "type": 0,
+      "parent": "🌍・GLOBAL",
+      "permissionOverwrites": []
+    },
+    {
+      "name": "❓・faq",
+      "type": 0,
+      "parent": "❗・INFORMATIONS",
+      "permissionOverwrites": [
+        {
+          "id": "1558972416581959720",
+          "allow": "1024",
+          "deny": "2048"
+        },
+        {
+          "id": "1558979751199121499",
+          "allow": "3072",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "📁・backup-logs",
+      "type": 0,
+      "parent": "Logs",
+      "permissionOverwrites": [
+        {
+          "id": "834510104727388170",
+          "allow": "1024",
+          "deny": "0"
+        },
+        {
+          "id": "1558972416581959720",
+          "allow": "0",
+          "deny": "1024"
+        }
+      ]
+    },
+    {
+      "name": "🔧・Bureau Travail #3",
+      "type": 2,
+      "parent": "🔊・STAFF VOCAL",
+      "permissionOverwrites": [
+        {
+          "id": "1558977235669622914",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558978394639699998",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558972416581959720",
+          "allow": "0",
+          "deny": "1049600"
+        },
+        {
+          "id": "1558977367328825354",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558976564899745972",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558977474384232478",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558973967379861565",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558975797211959397",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558976768180887595",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558976659934154772",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558978443985559552",
+          "allow": "1049600",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "👑・Staff",
+      "type": 4,
+      "parent": null,
+      "permissionOverwrites": [
+        {
+          "id": "1558977235669622914",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558978394639699998",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558972416581959720",
+          "allow": "0",
+          "deny": "1049600"
+        },
+        {
+          "id": "1558976659934154772",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558977474384232478",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1559047608285143200",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558973967379861565",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558976768180887595",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558977367328825354",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558978443985559552",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558976564899745972",
+          "allow": "1049600",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "📁・txadmin-logs",
+      "type": 0,
+      "parent": "Logs",
+      "permissionOverwrites": [
+        {
+          "id": "1559136897421418597",
+          "allow": "3072",
+          "deny": "0"
+        },
+        {
+          "id": "1558972416581959720",
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "834510104727388170",
+          "allow": "1024",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "🎥・STREAMER",
+      "type": 4,
+      "parent": null,
+      "permissionOverwrites": [
+        {
+          "id": "1558986894162010192",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558972416581959720",
+          "allow": "0",
+          "deny": "1024"
+        }
+      ]
+    },
+    {
+      "name": "⏳・Pause",
+      "type": 2,
+      "parent": "🔊・STAFF VOCAL",
+      "permissionOverwrites": [
+        {
+          "id": "1558972416581959720",
+          "allow": "0",
+          "deny": "1049600"
+        },
+        {
+          "id": "1558973967379861565",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558975797211959397",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558976564899745972",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558976659934154772",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558976768180887595",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558977235669622914",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558977367328825354",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558977474384232478",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558978394639699998",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558978443985559552",
+          "allow": "1049600",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "⭐・Réunion",
+      "type": 2,
+      "parent": "🔊・STAFF VOCAL",
+      "permissionOverwrites": [
+        {
+          "id": "1558972416581959720",
+          "allow": "0",
+          "deny": "1049600"
+        },
+        {
+          "id": "1558975797211959397",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558973967379861565",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558976564899745972",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558976659934154772",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558976768180887595",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558977235669622914",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558977367328825354",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558977474384232478",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558978394639699998",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558978443985559552",
+          "allow": "1049600",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "Ticket Fonda",
+      "type": 4,
+      "parent": null,
+      "permissionOverwrites": [
+        {
+          "id": "1558972416581959720",
+          "allow": "0",
+          "deny": "1049600"
+        },
+        {
+          "id": "1558973967379861565",
+          "allow": "1049600",
+          "deny": "0"
+        },
+        {
+          "id": "1558975797211959397",
+          "allow": "1049600",
+          "deny": "0"
+        }
+      ]
+    },
+    {
+      "name": "Logs",
+      "type": 4,
+      "parent": null,
+      "permissionOverwrites": [
+        {
+          "id": "1558972416581959720",
+          "allow": "0",
+          "deny": "1024"
+        },
+        {
+          "id": "834510104727388170",
+          "allow": "1024",
+          "deny": "0"
+        }
+      ]
+    }
+  ]
+}
